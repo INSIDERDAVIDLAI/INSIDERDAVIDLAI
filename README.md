@@ -62,9 +62,5 @@ I'm a passionate Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 ---
 
-### 🚣 Recreational Licenses
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Hunter-8B0000?style=for-the-badge&logo=hunting&logoColor=white" alt="Hunter" />
-</p>
 
