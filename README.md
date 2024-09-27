@@ -32,6 +32,7 @@ I'm a passionate Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 ### 🛠️ Back-End Technologies
 
 <p align="center">
+  <img src="https://img.shields.io/badge/RESTful_API-25A4E3?style=for-the-badge&logo=api&logoColor=white" alt="RESTful API" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/Bash/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash/Shell" />
