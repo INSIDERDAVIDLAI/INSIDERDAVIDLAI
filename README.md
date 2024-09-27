@@ -9,9 +9,10 @@
 
 I'm a passionate Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with a background in [Your Degree/Field] from [Your University] 🇨🇦, and I love everything beautiful.
 
-- 🌱 I primarily work with → React, Node.js, Python, JavaScript, and HTML
+- 🌱 I primarily work with → React, Java, Python, JavaScript
 - 👨‍💻 Check out my projects at [https://github.com/INSIDERDAVIDLAI](https://github.com/INSIDERDAVIDLAI)
-- 📫 Reach me at [your.email@example.com](mailto:your.email@example.com)
+- 📫 Reach me at [insiderdavidlai@gmail.com](mailto:insiderdavidlai@gmail.com)
+- 👌 Alternative [email](mailto:a.lai@alumni.utoronto.ca)
 - ⚡ Fun fact: I love League of Legends! ⭐️
 - 💡 Why InsiderDavidLai: The "Insider" comes from the Microsoft Windows Insider Program, which I joined in December 2014. 
 
