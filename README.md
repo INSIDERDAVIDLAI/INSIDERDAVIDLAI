@@ -16,8 +16,8 @@ I'm a passionate Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 - ⚡ Fun fact: I love League of Legends! ⭐️
 - 💡 **Why InsiderDavidLai**:
   - "Insider" from the Microsoft Windows Insider Program (joined December 2014).
-  - "David" granted by my kindergarten teacher(can humorously be interpreted as "big appetite" in Chinese since everyone joked about wanting me to eat more.)
-  - "Lai" is my family name.
+  - "David" granted by my kindergarten teacher (can humorously be interpreted as "big appetite" in Chinese since everyone joked about wanting me to eat more.)
+  - "Lai" is my family name. (approximately 0.18% population in China share same last name with me) 
 
 
 ---
