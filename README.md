@@ -30,7 +30,7 @@ I'm a passionate Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 ---
 
-### 🛠️ Back-End Technologies
+### 💻 Back-End Technologies
 
 <p align="center">
   <img src="https://img.shields.io/badge/RESTful_API-25A4E3?style=for-the-badge&logo=api&logoColor=white" alt="RESTful API" />
@@ -50,6 +50,15 @@ I'm a passionate Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  
+
+</p>
+
+---
+
+### 🛠️ Tools
+
+<p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
@@ -58,10 +67,8 @@ I'm a passionate Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
   <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=azure&logoColor=white" alt="Azure" />
   <img src="https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white" alt="JetBrains IDE" />
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda" />
-
 </p>
 
 ---
-
 
 
