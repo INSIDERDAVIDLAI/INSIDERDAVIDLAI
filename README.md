@@ -3,9 +3,6 @@
   <a href="https://www.linkedin.com/in/insiderdavidlai/" target="blank">
     <img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/your-instagram" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
 </p>
 
 #### 👗 &nbsp; About Me :
