@@ -7,7 +7,7 @@
 
 #### 👗 &nbsp; About Me :
 
-I'm a passionate Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with a background in [Your Degree/Field] from [Your University] 🇨🇦, and I love everything beautiful.
+I'm a passionate Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with a background in CS from [Brock University] 🇨🇦, and I love everything beautiful.
 
 - 🌱 I primarily work with → React, Java, Python, JavaScript
 - 👨‍💻 Check out my projects at [https://github.com/INSIDERDAVIDLAI](https://github.com/INSIDERDAVIDLAI)
