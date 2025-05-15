@@ -75,4 +75,3 @@ I'm a passionate Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=insiderdavidlai)](https://github.com/insiderdavidlai)
