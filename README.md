@@ -13,7 +13,7 @@ I'm a passionate Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 - 👨‍💻 Check out my projects at [https://github.com/INSIDERDAVIDLAI](https://github.com/INSIDERDAVIDLAI)
 - 📫 Reach me at [iam@jiayangl.ai](mailto:iam@jiayangl.ai)
 - 👌 Alternative [email](mailto:a.lai@alumni.utoronto.ca)
-- ⚡ Fun fact: I love League of Legends! ⭐️
+- ⚡ Fun fact: I love League of Legends! ⭐️ and Credit Card💳
 - 💡 **Why InsiderDavidLai**:
   - "Insider" from the Microsoft Windows Insider Program (joined December 2014).
   - "David" first name granted by my kindergarten teacher (can humorously be interpreted as "big appetite" in Chinese since everyone joked about wanting me to eat more.)
