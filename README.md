@@ -11,7 +11,7 @@ I'm a passionate Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - 🌱 I primarily work with → React, Java, Python, JavaScript
 - 👨‍💻 Check out my projects at [https://github.com/INSIDERDAVIDLAI](https://github.com/INSIDERDAVIDLAI)
-- 📫 Reach me at [iam@jiayangl.ai](mailto:iam@jiayangl.ai)
+- 📫 Reach me at [insiderdavidlai@gmail.com](mailto:insiderdavidlai@gmail.com)
 - 👌 Alternative [email](mailto:a.lai@alumni.utoronto.ca)
 - ⚡ Fun fact: I love League of Legends! ⭐️ and Credit Cards💳
 - 💡 **Why InsiderDavidLai**:
